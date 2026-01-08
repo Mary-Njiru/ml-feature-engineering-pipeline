@@ -53,8 +53,8 @@ Environmental data analysis for air quality.
 
 ## 📌 Project Goals
 The primary objective of this repository is to showcase:
-### 1. Data Cleaning: Dealing with nulls and inconsistent records.
-### 2. Feature Extraction: Creating new variables from timestamps and text.
-### 3. Feature Selection: Identifying which variables contribute most to model performance.
+- Data Cleaning: Dealing with nulls and inconsistent records.
+- Feature Extraction: Creating new variables from timestamps and text.
+- Feature Selection: Identifying which variables contribute most to model performance.
 
 ## Developed by Mary Njiru
