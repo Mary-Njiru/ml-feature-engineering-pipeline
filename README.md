@@ -57,4 +57,4 @@ The primary objective of this repository is to showcase:
 ### 2. Feature Extraction: Creating new variables from timestamps and text.
 ### 3. Feature Selection: Identifying which variables contribute most to model performance.
 
-# Developed by Mary Njiru
+## Developed by Mary Njiru
